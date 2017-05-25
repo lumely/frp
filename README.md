@@ -1,2 +1,7 @@
-# frp
-For Friends Research Award(FRP)
+## なにこれ
+フレンズ研究賞(Friends Research Prize; FRP)の透明性を担保するためのリポジトリです．
+
+## 何があるの？
+とりあえず，受賞者の抽選アルゴリズム drawing_lots.rb を公開しています．
+
+真に透明かつ校正な研究賞実現のため，色々とコメント頂ければと思います．Gitよくわかっていないので助けてください．
